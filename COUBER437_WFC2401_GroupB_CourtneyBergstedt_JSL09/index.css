@@ -49,3 +49,8 @@ div#crypto-top {
 div#crypto-top > span {
     margin-left: 10px;
 }
+
+div#weather {
+    display: flex;
+    align-items: flex-start;
+}
